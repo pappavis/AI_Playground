@@ -1,7 +1,7 @@
 # AI_Playground
 Experimenteren met AI
 
-# setup isntructies
+# setup instructies
 1. Installeer python in ~/venv
 2. Creeer een virtualenv
 3. uitvoeren
