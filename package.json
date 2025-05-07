@@ -1,0 +1,17 @@
+{
+  "name": "muziek-genereer",
+  "version": "1.0.0",
+  "description": "Music generation project",
+  "type": "module",
+  "main": "musicgen_small.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "music",
+    "generation"
+  ],
+  "author": "",
+  "license": "ISC"
+}
+
