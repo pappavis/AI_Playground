@@ -1,2 +1,2 @@
-# AI_Playgraound
+# AI_Playground
 Experimenteren met AI
