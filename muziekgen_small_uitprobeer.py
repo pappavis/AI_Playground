@@ -8,6 +8,17 @@ import os
 import sys  # Voor het verwerken van command-line argumenten
 import json
 
+# Dit script genereert muziek met behulp van het MusicGen-model van Facebook.
+# Het maakt gebruik van de transformers-bibliotheek om het model te laden en audio te genereren.
+# Het script accepteert een prompt via command-line argumenten en genereert een audiofragment op basis van die prompt.
+# Het script slaat de gegenereerde audio op als een WAV-bestand en converteert het naar MP3.
+# Het script maakt ook gebruik van de simpleaudio-bibliotheek om de audio af te spelen.
+# Ontwikkelaar: Michiel Erasmus
+
+# CHANGELOG:
+# 0.1.0 - Eerste versie van het script
+
+
 class muziekgenMichiel:
     def __init__(self, initModel=True):
         self.liedje_uuid = str(uuid4()).replace("-", "")  # UUID zonder streepjes
