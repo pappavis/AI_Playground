@@ -2,12 +2,14 @@
 Experimenteren met AI
 
 # setup isntructies
-1. Installeer python
+1. Installeer python in ~/venv
 2. Creeer een virtualenv
-3. uitvoeren '''bash
-   pip install -r ./requirements
-   '''
-   
+3. uitvoeren
+  
+```bash
+source ~/venv/bin/activate
+pip install -r ./requirements
+```
 
 ## muziekgen_small_uitprobeer.py
 Dit script genereert muziek met behulp van het MusicGen-model van Facebook.
@@ -17,6 +19,10 @@ Het script slaat de gegenereerde audio op als een WAV-bestand en converteert het
 Het script maakt ook gebruik van de simpleaudio-bibliotheek om de audio af te spelen.
 Ontwikkelaar: Michiel Erasmus
 
+```bash
+muziekgen_small_uitprobeer.py --help
+```
+
 
 ## muziekgen_akkoord_spelen.py:
 Dit script genereert een MIDI-bestand met een vingerpatroon op basis van een opgegeven akkoordprogressie.
@@ -24,6 +30,12 @@ Dit script genereert een MIDI-bestand met een vingerpatroon op basis van een opg
  Het script accepteert command-line argumenten voor de akkoordprogressie, maatsoort, tempo en uitvoermap.
  Het genereert een vingerpatroon en slaat het resultaat op als een MIDI-bestand in de opgegeven uitvoermap.
  Het script toont ook een tabel met het vingerpatroon en de bijbehorende noten in de melodie.
+
+
+```bash
+muziekgen_akkoord_spelen.py --help
+```
+ 
 # CHANGELOG: 
 # 0.1.0 - Eerste versie van het script
 
