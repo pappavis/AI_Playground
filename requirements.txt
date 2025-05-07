@@ -1,0 +1,8 @@
+transformers
+simpleaudio
+tabulate
+music21
+torch
+scipy
+pydub
+numpy
