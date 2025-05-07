@@ -35,6 +35,12 @@ Dit script genereert een MIDI-bestand met een vingerpatroon op basis van een opg
 ```bash
 muziekgen_akkoord_spelen.py --help
 ```
+
+
+#Zelf afbeeldingen renderen met teskt-naar-afbeelding
+<img src="https://github.com/pappavis/AI_Playground/blob/main/COmfyUI_clip_vision_g.safetensors_sdxl_revision_zero_positive.png?raw=true" width="30%" height="30%">
+<a href="https://www.comfy.org">ComfyUI</a>
+
  
 # CHANGELOG: 
 # 0.1.0 - Eerste versie van het script
