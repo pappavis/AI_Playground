@@ -39,7 +39,7 @@ muziekgen_akkoord_spelen.py --help
 
 # Nuttige dingen
 ## Zelf afbeeldingen renderen met teskt-naar-afbeelding
-<img src="https://github.com/pappavis/AI_Playground/blob/main/COmfyUI_clip_vision_g.safetensors_sdxl_revision_zero_positive.png?raw=true" width="40%" height="40%"><br>
+<img src="https://github.com/pappavis/AI_Playground/blob/main/COmfyUI_clip_vision_g.safetensors_sdxl_revision_zero_positive.png?raw=true" width="80%" height="80%"><br>
 <a href="https://www.comfy.org">ComfyUI</a>
 
 # AI Agents
