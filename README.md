@@ -2,7 +2,12 @@
 Experimenteren met AI
 
 # setup isntructies
-Installeer python
+1. Installeer python
+2. Creeer een virtualenv
+3. uitvoeren '''bash
+   pip install -r ./requirements
+   '''
+   
 
 ## muziekgen_small_uitprobeer.py
 Dit script genereert muziek met behulp van het MusicGen-model van Facebook.
