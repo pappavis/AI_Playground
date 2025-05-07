@@ -43,7 +43,7 @@ muziekgen_akkoord_spelen.py --help
 <a href="https://www.comfy.org">ComfyUI</a>
 
 # AI Agents
-<img src="https://github.com/pappavis/AI_Playground/blob/main/n8n_AIAgent.png?raw=true" width="60%" height="60%"><br>
+<img src="https://github.com/pappavis/AI_Playground/blob/main/n8n_AIAgent.png?raw=true" width="80%" height="80%"><br>
 
 
 # CHANGELOG: 
