@@ -75,7 +75,7 @@ frontend/
 This should give you a clear roadmap for developing the frontend interface for your musical chord generator. If you need any further assistance or specific details, feel free to ask!
 
 
-#  Prompt  using chat.qwlm.ai
+#  Prompt  using <a herf="https://chat.qwen.ai/" target="_blank">https://chat.qwen.ai/</a>
 As a web developer, your task is to build the frontend interface that allows users to:<br>
 
 Select musical parameters (key, scale, chord type)<br>
