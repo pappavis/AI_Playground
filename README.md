@@ -36,6 +36,10 @@ Dit script genereert een MIDI-bestand met een vingerpatroon op basis van een opg
 muziekgen_akkoord_spelen.py --help
 ```
 
+# AI Chord Progressions generator
+Zie <a href="./ChordGeneratorFugroAI" alt="chords geenrator met AI">ChordGeneratorAI</a><br>
+<img src="https://github.com/pappavis/AI_Playground/blob/main/ChordGeneratorFugroAI/img/Scaler3A_%20Chord_Generator_Clone.png?raw=true" width="80%" hight="80%" alt="AI Chord generator">
+
 
 # Nuttige dingen
 ## Zelf afbeeldingen renderen met teskt-naar-afbeelding
