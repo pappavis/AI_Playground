@@ -2,7 +2,11 @@
 Versie: 0.0.1
 
 ## Requirements
-Requirements for building a frontend interface for a musical chord generator. Here’s a detailed breakdown of the tasks and requirements based on your description:
+A frontend interface for a musical chord generator. Here’s a detailed breakdown of the tasks and requirements:
+<br>
+<img src="https://github.com/pappavis/AI_Playground/blob/main/ChordGeneratorFugroAI/img/Scaler3A_%20Chord_Generator_Clone.png?raw=true" width="30%" hight="30%" alt="AI Chord generator">
+<br>
+
 
 ### User Interface
 
@@ -152,8 +156,49 @@ Demo-ready build that runs locally<br>
 README.md explaining how to run and test the frontend<br>
 Optional: Unit tests for core functions (e.g., chord drawing logic)<br>
 
-# installatiion of the app
- - Download this HTML file and dboule click it :) .
+# AI Chord Generator Frontend (Sprint 1)
+
+This is the frontend implementation for the AI Chord Generator, a web-based application for generating chord progressions. This is part of Sprint 1 and provides a basic user interface with mock chord generation and playback capabilities.
+
+## How to Run
+
+1.  **Save the Files:** Ensure you have `index.html`, `styles.css`, and `app.js` in the `frontend/` directory.
+2.  **Use Live Server (VS Code Extension):**
+    * If you have the Live Server extension installed in VS Code, open `index.html` and right-click.
+    * Select "Open with Live Server". This will open the application in your default web browser.
+3.  **Alternatively (Without Live Server):**
+    * Open your web browser (Chrome, Firefox, Safari).
+    * Navigate to the `frontend/index.html` file on your local file system.
+
+## How to Test
+
+1.  **UI Responsiveness:** Resize your browser window to check if the layout adapts well to different screen sizes (desktop and mobile).
+2.  **Parameter Selection:** Use the dropdowns for Key, Scale, and Chord Type, and the number input for Length.
+3.  **Generate Chords:** Click the "Generate Chords" button. You should see rectangles appearing on the piano roll canvas, representing the mocked chords.
+4.  **Playback:**
+    * Click the "Play" button. You should hear simple sine wave tones corresponding to the notes in the generated chords.
+    * Click "Pause" to stop the currently playing audio.
+    * Click "Stop" to halt playback and reset the current time.
+
+## Known Limitations (Sprint 1)
+
+* Chord generation is purely mock and does not involve any actual AI or sophisticated music theory.
+* The piano roll visualization is basic and shows all notes of a chord at the same horizontal position within a bar.
+* Playback uses simple sine waves; no actual instrument sounds are implemented.
+* No backend communication is implemented.
+
+## Deliverables
+
+* `frontend/index.html`
+* `frontend/styles.css`
+* `frontend/app.js`
+* `README.md`
+
+## Optional: Unit Tests
+
+No unit tests are included in this initial deliverable as the focus was on the basic UI and mock functionality. Unit tests for core logic (like the chord drawing function) can be added in subsequent sprints if needed.
+
+
 <br>
 <img src="https://github.com/pappavis/AI_Playground/blob/main/ChordGeneratorFugroAI/img/Scaler3A_%20Chord_Generator_Clone.png?raw=true" width="80%" hight="80%" alt="AI Chord generator">
 <br><br>
