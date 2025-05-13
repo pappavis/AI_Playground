@@ -76,7 +76,7 @@ frontend/
 - `README.md` explaining how to run and test the frontend.
 - Optional: Unit tests for core functions (e.g., chord drawing logic).
 
-This should give you a clear roadmap for developing the frontend interface for your musical chord generator. If you need any further assistance or specific details, feel free to ask!
+This should give you a clear roadmap for developing the frontend interface for your musical chord generator.
 
 
 #  Prompt  using <a herf="https://chat.qwen.ai/" target="_blank">https://chat.qwen.ai/</a>
