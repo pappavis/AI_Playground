@@ -2,7 +2,7 @@
 Versie: 0.0.1
 
 ## Requirements
-It looks like you have a comprehensive set of requirements for building a frontend interface for a musical chord generator. Here’s a detailed breakdown of the tasks and requirements based on your description:
+Requirements for building a frontend interface for a musical chord generator. Here’s a detailed breakdown of the tasks and requirements based on your description:
 
 ### User Interface
 
