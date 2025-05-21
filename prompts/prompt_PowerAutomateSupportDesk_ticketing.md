@@ -9,9 +9,9 @@ THis prompt initaites a Powr Automate workflow in Microsoft Copilot.
 **# FLOW_NAME:** FEMSupport_EscalationHandler
 
 **# FLOW_METADATA:**
-- Owner: FEMSupport AI Team
+- Owner: ABCSupport AI Team
 - Category: Support Escalation
-- Tags: AI, FEM, escalation, HALO, logging
+- Tags: AI, ABC, escalation, HALO, logging
 
 **# FLOW_DESCRIPTION:**
 This Power Automate flow handles the escalation of unresolved FEM user issues from the AI Copilot. It sends an email notification, creates a HALO ticket, and logs the conversation context to a SharePoint list. The flow is designed to ensure all steps complete even if individual actions encounter issues.
