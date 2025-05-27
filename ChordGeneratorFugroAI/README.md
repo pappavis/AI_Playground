@@ -1,12 +1,20 @@
 # AI chord generator  -- WORK in progress!!! 
 Versie: 0.0.1
 
+'''bash
 ## Requirements
-A frontend interface for a musical chord generator. Here’s a detailed breakdown of the tasks and requirements:
+A frontend interface for a musical chord generator.
+- Select musical parameters (key, scale, chord type)<br>
+- Set progression length (number of bars)<br>
+- Generate chords using mock functionality<br>
+- View results in a piano roll canvas<br>
+- Play, pause, and stop playback using Web Audio API<br>
+
+
+Here’s a detailed breakdown of the tasks and requirements:
 <br>
 <img src="https://github.com/pappavis/AI_Playground/blob/main/ChordGeneratorFugroAI/img/Scaler3A_%20Chord_Generator_Clone.png?raw=true" width="30%" hight="30%" alt="AI Chord generator">
 <br>
-
 
 ### User Interface
 
@@ -40,14 +48,6 @@ A frontend interface for a musical chord generator. Here’s a detailed breakdow
 - **Layout:** Ensure it works well on both desktop and mobile devices.
 - **CSS Flexbox or Grid:** Use for layout structure.
 
-### File Structure
-```
-frontend/
-│
-├── index.html # Main HTML page
-├── styles.css # Styling for the app
-└── app.js # JavaScript logic
-```
 
 ### Acceptance Criteria
 - User can select key, scale, and chord type.
@@ -75,18 +75,6 @@ frontend/
 - Demo-ready build that runs locally.
 - `README.md` explaining how to run and test the frontend.
 - Optional: Unit tests for core functions (e.g., chord drawing logic).
-
-This should give you a clear roadmap for developing the frontend interface for your musical chord generator.
-
-
-#  Prompt  using <a herf="https://chat.qwen.ai/" target="_blank">https://chat.qwen.ai/</a>
-As a web developer, your task is to build the frontend interface that allows users to:<br>
-
-Select musical parameters (key, scale, chord type)<br>
-Set progression length (number of bars)<br>
-Generate chords using mock functionality<br>
-View results in a piano roll canvas<br>
-Play, pause, and stop playback using Web Audio API<br>
 
 ## 📋 Requirements
 ### User Interface
@@ -155,7 +143,9 @@ Fully functional index.html, styles.css, and app.js files<br>
 Demo-ready build that runs locally<br>
 README.md explaining how to run and test the frontend<br>
 Optional: Unit tests for core functions (e.g., chord drawing logic)<br>
+'''
 
+<hr>
 # AI Chord Generator Frontend (Sprint 1)
 
 This is the frontend implementation for the AI Chord Generator, a web-based application for generating chord progressions. This is part of Sprint 1 and provides a basic user interface with mock chord generation and playback capabilities.
